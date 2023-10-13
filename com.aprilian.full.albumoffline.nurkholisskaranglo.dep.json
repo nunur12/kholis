@@ -31,15 +31,15 @@
 
 "INTER_COUNT" : "20",
 
-"ENABLE_STRAP" : flase,
+"ENABLE_STRAP" : false,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 
 "ADS_ON_EXIT_DIALOG" : false, // WARNING - CTR MENINGKAT
 
-"MODE_OFFLINE_MP3" : true,
+"MODE_OFFLINE_MP3" : false,
 "ENABLE_STICKY_NOTIFICATION" : true,
 
-"STARTAPPID" : "201365479x",
+"STARTAPPID" : "",
 
 "ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111x",
 "ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712x",
@@ -56,8 +56,8 @@
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
 "FAN_NATIVE" : "YOUR_PLACEMENT_ID",
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "inter",
+"UNITY_BANNER" : "bannerx",
+"UNITY_INTERSTITIAL" : "interx",
 "UNITY_GAME_ID" : "4114625x",
 
 "APPLOVIN_BANNER_MAX_ID" : "71f5faf4df08917cx",
@@ -88,7 +88,7 @@ i.ve download and so much happy
 "MORE_BUTTON" : "Share Via WhatsApp",
 // Jika share button TRUE maka tombol MORE berubah SHARE
 // isi url more apps jika ENABLE_SHARE_BUTTON  is false
-"URL_MORE_APPS" : "https://play.google.com/store/apps/developer?id=devname"
+"URL_MORE_APPS" : "https://play.google.com/store/apps/developer?id="
 
  }
 }
